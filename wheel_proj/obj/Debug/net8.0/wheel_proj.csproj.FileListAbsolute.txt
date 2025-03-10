@@ -1,0 +1,15 @@
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/bin/Debug/net8.0/wheel_proj
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/bin/Debug/net8.0/wheel_proj.deps.json
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/bin/Debug/net8.0/wheel_proj.runtimeconfig.json
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/bin/Debug/net8.0/wheel_proj.dll
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/bin/Debug/net8.0/wheel_proj.pdb
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.AssemblyInfoInputs.cache
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.AssemblyInfo.cs
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.csproj.CoreCompileInputs.cache
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.sourcelink.json
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.dll
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/refint/wheel_proj.dll
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.pdb
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/wheel_proj.genruntimeconfig.cache
+/Users/amalmusouka/Desktop/programming_2/wheel_proj/obj/Debug/net8.0/ref/wheel_proj.dll

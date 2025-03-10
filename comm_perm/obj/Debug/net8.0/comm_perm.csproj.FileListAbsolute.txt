@@ -1,0 +1,15 @@
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.AssemblyInfoInputs.cache
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.AssemblyInfo.cs
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.csproj.CoreCompileInputs.cache
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.sourcelink.json
+/Users/amalmusouka/Desktop/programming_2/comm_perm/bin/Debug/net8.0/comm_perm
+/Users/amalmusouka/Desktop/programming_2/comm_perm/bin/Debug/net8.0/comm_perm.deps.json
+/Users/amalmusouka/Desktop/programming_2/comm_perm/bin/Debug/net8.0/comm_perm.runtimeconfig.json
+/Users/amalmusouka/Desktop/programming_2/comm_perm/bin/Debug/net8.0/comm_perm.dll
+/Users/amalmusouka/Desktop/programming_2/comm_perm/bin/Debug/net8.0/comm_perm.pdb
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.dll
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/refint/comm_perm.dll
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.pdb
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/comm_perm.genruntimeconfig.cache
+/Users/amalmusouka/Desktop/programming_2/comm_perm/obj/Debug/net8.0/ref/comm_perm.dll
