@@ -7,7 +7,7 @@ class Wheel
     {
         int total = (input) + (input) + (input);
         int count = 0;
-        int[] wheel = new int[3 * input];
+        int[] wheel = new int[total + 1];
         wheel[0] = 1;
         
 
