@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3d_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e51c653137a12fd91dde55fc665552e4236c8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae688e7b1d31c3bdbdcc44750f075be32fc161e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("3d_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3d_tic_tac_toe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

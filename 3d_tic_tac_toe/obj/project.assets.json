@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/amalmusouka/.nuget/packages/": {}
+    "/home/amalmusouka/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/3d_tic_tac_toe.csproj",
+      "projectUniqueName": "/home/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/3d_tic_tac_toe.csproj",
       "projectName": "3d_tic_tac_toe",
-      "projectPath": "/Users/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/3d_tic_tac_toe.csproj",
-      "packagesPath": "/Users/amalmusouka/.nuget/packages/",
-      "outputPath": "/Users/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/obj/",
+      "projectPath": "/home/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/3d_tic_tac_toe.csproj",
+      "packagesPath": "/home/amalmusouka/.nuget/packages/",
+      "outputPath": "/home/amalmusouka/Desktop/programming_2/3d_tic_tac_toe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amalmusouka/.nuget/NuGet/NuGet.Config"
+        "/home/amalmusouka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/amalmusouka/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
