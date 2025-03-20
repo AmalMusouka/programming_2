@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/typesetting/bin/Debug/net8.0/typesetting
+/home/amalmusouka/Desktop/programming_2/typesetting/bin/Debug/net8.0/typesetting.deps.json
+/home/amalmusouka/Desktop/programming_2/typesetting/bin/Debug/net8.0/typesetting.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/typesetting/bin/Debug/net8.0/typesetting.dll
+/home/amalmusouka/Desktop/programming_2/typesetting/bin/Debug/net8.0/typesetting.pdb
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.dll
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/refint/typesetting.dll
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.pdb
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/typesetting.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/typesetting/obj/Debug/net8.0/ref/typesetting.dll
