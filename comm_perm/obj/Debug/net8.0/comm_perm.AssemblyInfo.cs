@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("comm_perm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0b671c9dae72b058e52a041f48956bb9a1e614c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6556c807087aa15f94768e76b7020b565186e48d")]
 [assembly: System.Reflection.AssemblyProductAttribute("comm_perm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("comm_perm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

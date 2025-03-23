@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3/PEK7L+rfk=",
+  "dgSpecHash": "bXYt6k8GnBI=",
   "success": true,
   "projectFilePath": "/home/amalmusouka/Desktop/programming_2/typesetting/typesetting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/amalmusouka/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
