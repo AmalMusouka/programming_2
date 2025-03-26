@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/rectangles/bin/Debug/net9.0/rectangles
+/home/amalmusouka/Desktop/programming_2/rectangles/bin/Debug/net9.0/rectangles.deps.json
+/home/amalmusouka/Desktop/programming_2/rectangles/bin/Debug/net9.0/rectangles.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/rectangles/bin/Debug/net9.0/rectangles.dll
+/home/amalmusouka/Desktop/programming_2/rectangles/bin/Debug/net9.0/rectangles.pdb
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.dll
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/refint/rectangles.dll
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.pdb
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/rectangles.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/rectangles/obj/Debug/net9.0/ref/rectangles.dll

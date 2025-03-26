@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/ant/bin/Debug/net9.0/ant
+/home/amalmusouka/Desktop/programming_2/ant/bin/Debug/net9.0/ant.deps.json
+/home/amalmusouka/Desktop/programming_2/ant/bin/Debug/net9.0/ant.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/ant/bin/Debug/net9.0/ant.dll
+/home/amalmusouka/Desktop/programming_2/ant/bin/Debug/net9.0/ant.pdb
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.dll
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/refint/ant.dll
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.pdb
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ant.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/ant/obj/Debug/net9.0/ref/ant.dll
