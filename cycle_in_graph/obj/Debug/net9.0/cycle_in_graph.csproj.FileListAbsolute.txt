@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/bin/Debug/net9.0/cycle_in_graph
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/bin/Debug/net9.0/cycle_in_graph.deps.json
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/bin/Debug/net9.0/cycle_in_graph.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/bin/Debug/net9.0/cycle_in_graph.dll
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/bin/Debug/net9.0/cycle_in_graph.pdb
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.dll
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/refint/cycle_in_graph.dll
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.pdb
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/cycle_in_graph.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/cycle_in_graph/obj/Debug/net9.0/ref/cycle_in_graph.dll
