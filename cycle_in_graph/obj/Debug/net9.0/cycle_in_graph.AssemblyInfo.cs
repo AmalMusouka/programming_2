@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cycle_in_graph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdd80fddc03f21973fb45c566b00bc759072159")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be9db515d675794d4873b326ef2ccd838dddff2")]
 [assembly: System.Reflection.AssemblyProductAttribute("cycle_in_graph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cycle_in_graph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

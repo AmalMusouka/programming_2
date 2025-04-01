@@ -28,6 +28,52 @@ class Program
                 }
             }
         }
+
+        public List<int>? FindCycle()
+        {
+            int[] next = new int[num + 1];
+            Color[] color = new Color[num + 1];
+
+            List<int>? dfs(int v)
+            {
+                color[v] = Color.Grey;
+
+                foreach (int n in edge[v])
+                {
+                    if (color[n] == Color.Black)
+                    {
+                        continue;
+                    }
+
+                    next[v] = n;
+                    if (color[n] == Color.Grey)
+                    {
+                        List<int> cycle = new();
+                        int cur = next[n];
+                        while (cur != n)
+                        {
+                            cycle.Add(cur);
+                            cur = next[cur];
+                        }
+
+                        return cycle;
+                    }
+
+                    if (dfs(n) is List<int> l)
+                    {
+                        return l;
+                    }
+                }
+
+                color[v] = Color.Black;
+                return null;
+            }
+
+            for (int v = 1; v <= num; ++v)
+            {
+                
+            }
+        }
         
        static public void DFS()
         {
