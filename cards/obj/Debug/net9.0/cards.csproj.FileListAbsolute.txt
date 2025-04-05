@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/cards/bin/Debug/net9.0/cards
+/home/amalmusouka/Desktop/programming_2/cards/bin/Debug/net9.0/cards.deps.json
+/home/amalmusouka/Desktop/programming_2/cards/bin/Debug/net9.0/cards.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/cards/bin/Debug/net9.0/cards.dll
+/home/amalmusouka/Desktop/programming_2/cards/bin/Debug/net9.0/cards.pdb
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.dll
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/refint/cards.dll
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.pdb
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/ref/cards.dll
