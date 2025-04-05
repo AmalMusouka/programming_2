@@ -7,10 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8c6b5a-a467-46aa-9990-6afdb0a7580c" name="Changes" comment="feat: cards program initialized">
+    <list default="true" id="6f8c6b5a-a467-46aa-9990-6afdb0a7580c" name="Changes" comment="feat: finalized cards problem">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cards.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cards.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/cards.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/cards.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/cards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/cards.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/cards.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/cards.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/cards.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/cards.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/cards.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/cards.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/cards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/cards.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/cards.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/cards.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ref/cards.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ref/cards.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/cards.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/cards.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +33,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/amalmusouka/Desktop/programming_2/cards/obj/Debug/net9.0/cards.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
@@ -37,7 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.cards.executor": "Debug",
+    ".NET Project.cards.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -77,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858499795</updated>
-      <workItem from="1743858501026" duration="7571000" />
+      <workItem from="1743858501026" duration="8321000" />
     </task>
     <task id="LOCAL-00001" summary="feat: cards program initialized">
       <option name="closed" value="true" />
@@ -87,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743858528039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: finalized cards problem">
+      <option name="closed" value="true" />
+      <created>1743878932210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743878932210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,25 +115,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat: cards program initialized" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: cards program initialized" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Program.cs</url>
-          <line>49</line>
-          <properties documentPath="$PROJECT_DIR$/Program.cs" containingFunctionPresentation="Method 'mostFrequent'">
-            <startOffsets>
-              <option value="1397" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1423" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="feat: finalized cards problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: finalized cards problem" />
   </component>
 </project>
