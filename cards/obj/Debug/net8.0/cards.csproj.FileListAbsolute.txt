@@ -1,0 +1,15 @@
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.AssemblyInfoInputs.cache
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.AssemblyInfo.cs
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.csproj.CoreCompileInputs.cache
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.sourcelink.json
+/Users/amalmusouka/Desktop/programming_2/cards/bin/Debug/net8.0/cards
+/Users/amalmusouka/Desktop/programming_2/cards/bin/Debug/net8.0/cards.deps.json
+/Users/amalmusouka/Desktop/programming_2/cards/bin/Debug/net8.0/cards.runtimeconfig.json
+/Users/amalmusouka/Desktop/programming_2/cards/bin/Debug/net8.0/cards.dll
+/Users/amalmusouka/Desktop/programming_2/cards/bin/Debug/net8.0/cards.pdb
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.dll
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/refint/cards.dll
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.pdb
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/cards.genruntimeconfig.cache
+/Users/amalmusouka/Desktop/programming_2/cards/obj/Debug/net8.0/ref/cards.dll
