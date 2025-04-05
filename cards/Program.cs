@@ -1,6 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        Hand h = new Hand("10H 10S 7H 7S 2D");
+        Hand g = new Hand("AS AD 7C 7H 8D");
+        Console.WriteLine(h.compare(g));
+    }
+}
 public class Card
 {
     private Dictionary<string, int>converter = new Dictionary<string, int>
