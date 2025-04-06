@@ -55,24 +55,10 @@ class Program
                     if (group1[v])
                     {
                         group2[w] = true;
-                        if (w > prev_w)
-                        {
-                            second.Append(w + 1);
-                            second.Append(" ");
-                        }
-                        else
-                        {
-                            second.Insert(0, w + 1);
-                            second.Insert(1, " ");
-                        }
-                        
-                        prev_w = w;
                     }
                     else
                     {
                         group1[w] = true;
-                        first.Append(w + 1);
-                        first.Append(" ");
                     }
                     queue.Enqueue(w);
                     //Console.WriteLine("Enqueuing city " + graph[v][i]);
@@ -89,8 +75,24 @@ class Program
                 
             }
         }
-        Console.WriteLine(first);
-        Console.WriteLine(second);
+
+        for (int i = 0; i < group1.Length; ++i)
+        {
+            if (group1[i])
+            {
+                Console.Write(i + 1 + " ");
+            }
+        }
+        
+        Console.WriteLine();
+
+        for (int i = 0; i < group2.Length; ++i)
+        {
+            if (group2[i])
+            {
+                Console.Write(i + 1 + " ");
+            }
+        }
     }
     static void Main(string[] args)
     {

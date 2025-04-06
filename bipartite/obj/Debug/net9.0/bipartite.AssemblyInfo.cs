@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bipartite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b2b88ce88effbf476ec04a7424995c40e0cdb57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe5a0eae30847d6155eb888f6cbad08b5c84c27")]
 [assembly: System.Reflection.AssemblyProductAttribute("bipartite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bipartite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
