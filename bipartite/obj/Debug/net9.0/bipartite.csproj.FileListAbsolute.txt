@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/bipartite/bin/Debug/net9.0/bipartite
+/home/amalmusouka/Desktop/programming_2/bipartite/bin/Debug/net9.0/bipartite.deps.json
+/home/amalmusouka/Desktop/programming_2/bipartite/bin/Debug/net9.0/bipartite.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/bipartite/bin/Debug/net9.0/bipartite.dll
+/home/amalmusouka/Desktop/programming_2/bipartite/bin/Debug/net9.0/bipartite.pdb
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.dll
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/refint/bipartite.dll
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.pdb
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/bipartite.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/bipartite/obj/Debug/net9.0/ref/bipartite.dll

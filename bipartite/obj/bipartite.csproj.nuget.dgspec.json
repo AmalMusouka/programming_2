@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/amalmusouka/Desktop/programming_2/cards/cards.csproj": {}
+    "/home/amalmusouka/Desktop/programming_2/bipartite/bipartite.csproj": {}
   },
   "projects": {
-    "/home/amalmusouka/Desktop/programming_2/cards/cards.csproj": {
+    "/home/amalmusouka/Desktop/programming_2/bipartite/bipartite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amalmusouka/Desktop/programming_2/cards/cards.csproj",
-        "projectName": "cards",
-        "projectPath": "/home/amalmusouka/Desktop/programming_2/cards/cards.csproj",
+        "projectUniqueName": "/home/amalmusouka/Desktop/programming_2/bipartite/bipartite.csproj",
+        "projectName": "bipartite",
+        "projectPath": "/home/amalmusouka/Desktop/programming_2/bipartite/bipartite.csproj",
         "packagesPath": "/home/amalmusouka/.nuget/packages/",
-        "outputPath": "/home/amalmusouka/Desktop/programming_2/cards/obj/",
+        "outputPath": "/home/amalmusouka/Desktop/programming_2/bipartite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/amalmusouka/.nuget/NuGet/NuGet.Config"
