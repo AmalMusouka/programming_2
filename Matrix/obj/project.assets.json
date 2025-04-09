@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amalmusouka/Desktop/programming_2/week8/week8.csproj",
-      "projectName": "week8",
-      "projectPath": "/Users/amalmusouka/Desktop/programming_2/week8/week8.csproj",
+      "projectUniqueName": "/Users/amalmusouka/Desktop/programming_2/Matrix/Matrix.csproj",
+      "projectName": "Matrix",
+      "projectPath": "/Users/amalmusouka/Desktop/programming_2/Matrix/Matrix.csproj",
       "packagesPath": "/Users/amalmusouka/.nuget/packages/",
-      "outputPath": "/Users/amalmusouka/Desktop/programming_2/week8/obj/",
+      "outputPath": "/Users/amalmusouka/Desktop/programming_2/Matrix/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amalmusouka/.nuget/NuGet/NuGet.Config"

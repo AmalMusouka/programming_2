@@ -1,0 +1,15 @@
+/Users/amalmusouka/Desktop/programming_2/week8/bin/Debug/net8.0/week8
+/Users/amalmusouka/Desktop/programming_2/week8/bin/Debug/net8.0/week8.deps.json
+/Users/amalmusouka/Desktop/programming_2/week8/bin/Debug/net8.0/week8.runtimeconfig.json
+/Users/amalmusouka/Desktop/programming_2/week8/bin/Debug/net8.0/week8.dll
+/Users/amalmusouka/Desktop/programming_2/week8/bin/Debug/net8.0/week8.pdb
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.AssemblyInfoInputs.cache
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.AssemblyInfo.cs
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.csproj.CoreCompileInputs.cache
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.sourcelink.json
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.dll
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/refint/week8.dll
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.pdb
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/week8.genruntimeconfig.cache
+/Users/amalmusouka/Desktop/programming_2/week8/obj/Debug/net8.0/ref/week8.dll
