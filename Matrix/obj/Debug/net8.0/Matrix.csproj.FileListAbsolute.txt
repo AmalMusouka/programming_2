@@ -1,0 +1,15 @@
+/Users/amalmusouka/Desktop/programming_2/Matrix/bin/Debug/net8.0/Matrix
+/Users/amalmusouka/Desktop/programming_2/Matrix/bin/Debug/net8.0/Matrix.deps.json
+/Users/amalmusouka/Desktop/programming_2/Matrix/bin/Debug/net8.0/Matrix.runtimeconfig.json
+/Users/amalmusouka/Desktop/programming_2/Matrix/bin/Debug/net8.0/Matrix.dll
+/Users/amalmusouka/Desktop/programming_2/Matrix/bin/Debug/net8.0/Matrix.pdb
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfoInputs.cache
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfo.cs
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.csproj.CoreCompileInputs.cache
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.sourcelink.json
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.dll
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/refint/Matrix.dll
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.pdb
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/Matrix.genruntimeconfig.cache
+/Users/amalmusouka/Desktop/programming_2/Matrix/obj/Debug/net8.0/ref/Matrix.dll
