@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aty9rU9vnOg=",
+  "dgSpecHash": "L6VqnRiSgCE=",
   "success": true,
-  "projectFilePath": "/Users/amalmusouka/Desktop/programming_2/Matrix/Matrix.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/amalmusouka/Desktop/programming_2/Matrix/Matrix.csproj",
+  "expectedPackageFiles": [
+    "/home/amalmusouka/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.13/microsoft.netcore.app.host.linux-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
