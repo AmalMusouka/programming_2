@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/cellular_automation/bin/Debug/net9.0/cellular_automation
+/home/amalmusouka/Desktop/programming_2/cellular_automation/bin/Debug/net9.0/cellular_automation.deps.json
+/home/amalmusouka/Desktop/programming_2/cellular_automation/bin/Debug/net9.0/cellular_automation.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/cellular_automation/bin/Debug/net9.0/cellular_automation.dll
+/home/amalmusouka/Desktop/programming_2/cellular_automation/bin/Debug/net9.0/cellular_automation.pdb
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.dll
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/refint/cellular_automation.dll
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.pdb
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/cellular_automation.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/cellular_automation/obj/Debug/net9.0/ref/cellular_automation.dll
