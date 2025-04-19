@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/robot_walk/bin/Debug/net9.0/robot_walk
+/home/amalmusouka/Desktop/programming_2/robot_walk/bin/Debug/net9.0/robot_walk.deps.json
+/home/amalmusouka/Desktop/programming_2/robot_walk/bin/Debug/net9.0/robot_walk.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/robot_walk/bin/Debug/net9.0/robot_walk.dll
+/home/amalmusouka/Desktop/programming_2/robot_walk/bin/Debug/net9.0/robot_walk.pdb
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.dll
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/refint/robot_walk.dll
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.pdb
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/robot_walk.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/robot_walk/obj/Debug/net9.0/ref/robot_walk.dll
