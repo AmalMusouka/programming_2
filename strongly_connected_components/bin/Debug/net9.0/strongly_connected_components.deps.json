@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "strongly_connected_components/1.0.0": {
+        "runtime": {
+          "strongly_connected_components.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "strongly_connected_components/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

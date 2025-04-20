@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/bin/Debug/net9.0/strongly_connected_components
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/bin/Debug/net9.0/strongly_connected_components.deps.json
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/bin/Debug/net9.0/strongly_connected_components.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/bin/Debug/net9.0/strongly_connected_components.dll
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/bin/Debug/net9.0/strongly_connected_components.pdb
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.dll
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/refint/strongly_connected_components.dll
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.pdb
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/strongly_connected_components.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/strongly_connected_components/obj/Debug/net9.0/ref/strongly_connected_components.dll
