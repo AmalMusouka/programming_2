@@ -57,14 +57,14 @@ class Program
             visited = new bool[num + 1];
             List<List<int>> components = new List<List<int>>();
 
-            void ReverseDFS(int v, List<int> components)
+            void ReverseDFS(int v, List<int> component)
             {
                 visited[v] = true;
-                components.Add(v);
+                component.Add(v);
                 foreach (int u in reverse[v])
                 {
                     if (!visited[u])
-                        ReverseDFS(u, components);
+                        ReverseDFS(u, component);
                 }
             }
 
