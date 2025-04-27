@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/dragons_den/bin/Debug/net9.0/dragons_den
+/home/amalmusouka/Desktop/programming_2/dragons_den/bin/Debug/net9.0/dragons_den.deps.json
+/home/amalmusouka/Desktop/programming_2/dragons_den/bin/Debug/net9.0/dragons_den.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/dragons_den/bin/Debug/net9.0/dragons_den.dll
+/home/amalmusouka/Desktop/programming_2/dragons_den/bin/Debug/net9.0/dragons_den.pdb
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.dll
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/refint/dragons_den.dll
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.pdb
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/dragons_den.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/dragons_den/obj/Debug/net9.0/ref/dragons_den.dll
