@@ -1,0 +1,15 @@
+/home/amalmusouka/Desktop/programming_2/prep_d/bin/Debug/net9.0/prep_d
+/home/amalmusouka/Desktop/programming_2/prep_d/bin/Debug/net9.0/prep_d.deps.json
+/home/amalmusouka/Desktop/programming_2/prep_d/bin/Debug/net9.0/prep_d.runtimeconfig.json
+/home/amalmusouka/Desktop/programming_2/prep_d/bin/Debug/net9.0/prep_d.dll
+/home/amalmusouka/Desktop/programming_2/prep_d/bin/Debug/net9.0/prep_d.pdb
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.GeneratedMSBuildEditorConfig.editorconfig
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.AssemblyInfoInputs.cache
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.AssemblyInfo.cs
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.csproj.CoreCompileInputs.cache
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.sourcelink.json
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.dll
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/refint/prep_d.dll
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.pdb
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/prep_d.genruntimeconfig.cache
+/home/amalmusouka/Desktop/programming_2/prep_d/obj/Debug/net9.0/ref/prep_d.dll
