@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Runtime.InteropServices.Marshalling;
+
+class Program
 {
     static int[] coins = { 1, 2, 5, 10, 20, 50 };
 
@@ -382,7 +384,7 @@
         return steps[0];
     }
 
-    static public string longest_palindrome(string s)
+    /*static public string longest_palindrome(string s)
     {
         string lps(int i, int j)
         {
@@ -398,12 +400,50 @@
                 }
             }
         }
+    }*/
+
+
+    static public int ways_to_run(int n)
+    {
+        int[,] arr = new int[n + 1, 4];
+        int[] possible_moves = new int[] {1, 2, 3};
+        arr[0, 0] = 1;
+
+        
+        for (int i = 1; i <= n; ++i)
+        {
+            foreach (int move in possible_moves)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    if ((move == 1 && j == 1) || (move == 3 && j == 3))
+                    {
+                        continue;
+                    }
+
+                    if (i - move >= 0)
+                    {
+                        arr[i, move] += arr[i - move, j];
+                    }
+                }
+
+            }
+        }
+
+        return arr[n, 1] + arr[n, 2] + arr[n, 3];
     }
-    
+
+
+    static public bool firstWins(int n, int a, int b)
+    {
+        int[] outcome = [1, -1];
+        
+        
+    }
     
     
     static void Main(string[] args)
     {
-        Console.WriteLine(Jumps([2, 3, 1, 1, 2]));
+        Console.WriteLine(ways_to_run(10));
     }
 }

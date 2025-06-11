@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("strongly_connected_components")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f65e1142cbcedc9ccdf18639b17bd249c987a2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec40525342e0be0957f001209518f787ba0f1082")]
 [assembly: System.Reflection.AssemblyProductAttribute("strongly_connected_components")]
 [assembly: System.Reflection.AssemblyTitleAttribute("strongly_connected_components")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

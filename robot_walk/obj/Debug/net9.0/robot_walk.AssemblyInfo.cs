@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("robot_walk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c249ba09ce6fca05b803be403c5708472ed133f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec40525342e0be0957f001209518f787ba0f1082")]
 [assembly: System.Reflection.AssemblyProductAttribute("robot_walk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("robot_walk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
